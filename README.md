@@ -21,8 +21,11 @@ By the way this is the first project where I've actually documented what I'm doi
 # Examples
 
 https://www.reddit.com/r/archlinux/comments/mh8n8r/creating_script_to_change_between_nvidia_and/
+
 https://unix.stackexchange.com/questions/219059/remove-nouveau-driver-nvidia-without-rebooting
+
 https://dassencio.org/75
+
 https://askubuntu.com/questions/16998/switch-between-nvidia-current-and-nouveau-without-a-reboot
 
 # Roadmap
