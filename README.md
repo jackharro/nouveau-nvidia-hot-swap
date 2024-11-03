@@ -8,6 +8,7 @@ By the way this is the first project where I've actually documented what I'm doi
 
 # Design requirements
 
+``` 
 1. Reliably toggle between the modules
    1.1. User expected to disable DM and log out of graphical session manually (I do not have a DM—only design to what you need)
        1.1.1. What kind of error checking and message can we add?
@@ -15,8 +16,9 @@ By the way this is the first project where I've actually documented what I'm doi
    1.2. Do not hardcode PCI numbers: how can we find them? /sys/device/virtual/virtualterminal/vtcon0/subsystem/device or something?
        1.2.1. lscpi: check dependency BEFORE starting
 
-3. Some kind of fallback function that we run if we get an error message to try recover?
+2. Some kind of fallback function that we run if we get an error message to try recover?
     2.1. run || fallback
+```
 
 # Examples
 
